@@ -1,8 +1,8 @@
-# Orçamentos Dinâmicos - AltForce
+# Orçamentos Dinâmicos
 
 ## Descrição
 
-Aplicação Flutter desenvolvida para o teste prático da AltForce, implementando um sistema de orçamentos dinâmicos com formulários inteligentes que se adaptam baseado no tipo de produto selecionado e regras de negócio configuráveis.
+Aplicação Flutter desenvolvida com o intuito de implementando um sistema de orçamentos dinâmicos com formulários inteligentes que se adaptam baseado no tipo de produto selecionado e regras de negócio configuráveis.
 
 ## Arquitetura e Princípios Implementados
 
@@ -234,12 +234,4 @@ flutter analyze
 - **Arquitetura Flexível**: Fácil adição de novos tipos de produto
 - **Sistema de Regras**: Regras configuráveis sem alteração de código
 - **Extensibilidade**: Extensions e mixins para novas funcionalidades
-
-## Autor
-
-Desenvolvido para o teste prático da AltForce, demonstrando conhecimentos avançados em Flutter, Dart e arquitetura de software.
-
-## Licença
-
-Este projeto foi desenvolvido exclusivamente para fins de avaliação técnica.
 
